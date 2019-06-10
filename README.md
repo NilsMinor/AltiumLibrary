@@ -33,4 +33,6 @@ AltiumLibrary
 | voltage_regulators.SchLib |  sch |                                                            |
 | symbols.SchLib            |  sch |                                                            |
 
+### Disclaimer
+
 These examples are provided as-are, and there are no guarantees that they fit your purposes or that they are bug-free. Use it at your own risk! The resources and libraries may provide 3D data, scripts footprints or schematic files from third parties with or without copyrights.
