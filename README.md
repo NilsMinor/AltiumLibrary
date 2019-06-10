@@ -14,7 +14,6 @@ AltiumLibrary
 | crystals.PcbLib           |  pcb | footrpints of crystals used for db library                 |
 | diodes.PcbLib             |  pcb | footrpints of diodes used for db library                   |
 | passive.PcbLib            |  pcb | footrpints of resistors and capacitors used for db library |
-| ---------------           | ---: | ---------------------------------------------------------- |
 | battery.SchLib            |  sch |                                                            |
 | capacitors.SchLib         |  sch |                                                            |
 | connectors.SchLib         |  sch |                                                            |
