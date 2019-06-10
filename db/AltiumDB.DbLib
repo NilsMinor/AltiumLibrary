@@ -1,0 +1,78 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=\\Mac\Home\Documents\Altium\AltiumLibrary\db\AltiumDB.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=\\Mac\Home\Documents\Altium\AltiumLibrary\db\AltiumDB.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=Footprints;Symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=capacitors
+[Table1]
+SchemaName=
+TableName=capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=190|Library Path0=217|Library Ref0=200|Footprint Path0=214|Footprint Ref0=231|ID0=65|Part_Type0=139|Manufacturer Part Number0=304|Value0=98|Manufacturer0=180|Created By0=151
+[Table2]
+SchemaName=
+TableName=resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=178|Library Path0=217|Library Ref0=148|Footprint Path0=214|Footprint Ref0=171|ID0=65|Part_Type0=139|Manufacturer Part Number0=304|Value0=98|Manufacturer0=174|Created By0=151
+[Table3]
+SchemaName=
+TableName=~TMPCLP335151
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=~TMPCLP342331
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=capacitors.Description|TableNameOnly=capacitors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=capacitors.Library Path|TableNameOnly=capacitors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=capacitors.Library Ref|TableNameOnly=capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=capacitors.Footprint Path|TableNameOnly=capacitors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=capacitors.Footprint Ref|TableNameOnly=capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=capacitors.ID|TableNameOnly=capacitors|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=resistors.Description|TableNameOnly=resistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=resistors.Library Path|TableNameOnly=resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=resistors.Library Ref|TableNameOnly=resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=resistors.Footprint Path|TableNameOnly=resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=resistors.Footprint Ref|TableNameOnly=resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=resistors.ID|TableNameOnly=resistors|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=~TMPCLP335151.F1|TableNameOnly=~TMPCLP335151|FieldNameOnly=F1|FieldType=0|ParameterName=F1|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
